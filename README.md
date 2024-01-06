@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbladva
-- 👀 I’m interested in cross platform app development.
-- 🌱 I’m currently learning React native
+- 👀 I’m interested in React native app development.
+- 🌱 I’m currently learning NodeJs
 - 📫 How to reach me ladvadharmesh03@gmail.com
 
 <!---

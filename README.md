@@ -11,7 +11,7 @@
 
 ## 🌱 Currently Learning
 
-- Improving React Native performance
+- Node JS
 
 ## 📈 GitHub Stats
 

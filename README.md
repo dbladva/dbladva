@@ -8,10 +8,10 @@
 - Expo
 - RESTful APIs
 - Git
-
-## 🌱 Currently Learning
-
 - Node JS
+- MongoDB
+
+
 
 ## 📈 GitHub Stats
 
